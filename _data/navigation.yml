@@ -6,22 +6,22 @@
 
 main:
   - title: "Publications"
-    url: /imlsoads/publications/
+    url: /publications/
 
   - title: "Talks"
-    url: /imlsoads/talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: /imlsoads/teaching/    
+    url: /teaching/    
     
   - title: "Portfolio"
-    url: /imlsoads/portfolio/
+    url: /portfolio/
         
   - title: "Blog Posts"
-    url: /imlsoads/year-archive/
+    url: /year-archive/
     
   - title: "CV"
-    url: /imlsoads/cv/
+    url: /cv/
     
   - title: "Guide"
-    url: /imlsoads/markdown/
+    url: /markdown/
