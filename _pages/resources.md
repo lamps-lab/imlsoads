@@ -9,8 +9,8 @@ redirect_from:
 Data Sources
 ---
 <a href="https://github.com/allenai/s2orc">S2ORC</a><br>
-<a href=“https://xxx”>arXiv</a><br>
-<a href=“https://xxx”>PubMed Open Access Subset</a><br>
+<a href="https://info.arxiv.org/help/api/user-manual.html">arXiv</a><br>
+<a href="https://pmc.ncbi.nlm.nih.gov/tools/developers/">PubMed Open Access Subset</a><br>
 
 Technologies/APIs
 ---
