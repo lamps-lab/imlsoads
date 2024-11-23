@@ -1,11 +1,12 @@
 ---
-order_number: 2
+order_number: 0
 name: "Dr. Jian Wu"
-role: "Co-PI"
-title: "Professor, Computer Science, Old Dominion University"
+category: "faculty"
+role: "PI"
+title: "Assistant Professor of Computer Science, Old Dominion University"
 bio: "My research interests include text mining, scholarly big data, applied machine learning and deep learning, natural language processing, and information retrieval"
-img: "bio-photo.jpg"
+img: "jian-wu.png"
 collection: team
 website: "https://www.cs.odu.edu/~jwu/"
-email: "mailto:jwu@cs.odu.edu"
+email: "mailto:j1wu@odu.edu"
 ---
