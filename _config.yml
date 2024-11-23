@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "imlsoads"
+title                    : "Open Access Datasets and Software"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "lamps-lab/imlsoads.github.io/imlsoads"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LAMP-SYS-LOGO-2024.png"
+  avatar           : "LAMP-SYS-LOGO-2024v2.jpg"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
