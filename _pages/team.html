@@ -22,7 +22,7 @@ author_profile: true
   {% endif %}
 
   <div class="col-sm-6 clearfix">
-    <h3><a href="{{ member.email }}" rel="permalink">{{ member.name }}</a></h3>
+    <h3><a href="https://mail.google.com/mail/?view=cm&to={{ member.email }}" rel="permalink">{{ member.name }}</a></h3>
     <div class="row">
       <div class="col-sm-4">
         {% if member.img %}
@@ -64,7 +64,7 @@ author_profile: true
   {% endif %}
 
   <div class="col-sm-6 clearfix">
-    <h3><a href="{{ base_path }}{{ member.url }}" rel="permalink">{{ member.name }}</a></h3>
+    <h3><a href="https://mail.google.com/mail/?view=cm&to={{ member.email }}" rel="permalink">{{ member.name }}</a></h3>
     <div class="row">
       <div class="col-sm-4">
         {% if member.img %}
