@@ -1,4 +1,5 @@
 ---
+layout: default
 order_number: 0
 name: "Dr. Jian Wu"
 category: "faculty"
