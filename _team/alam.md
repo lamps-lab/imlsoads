@@ -7,6 +7,6 @@ title: "Web and Data Scientist, WayBack Machine"
 bio: ""
 img: "alam.jpg"
 collection: team
-website: ""
+website: "https://mastodon.archive.org/@sawood"
 email: "mailto:sawood@mastodon.archive.org"
 ---
