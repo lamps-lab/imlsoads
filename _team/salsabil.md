@@ -5,7 +5,7 @@ category: "student"
 role: "Student"
 title: "PhD Student, Computer Science, Old Dominion University"
 bio: ""
-img: "bio-photo.jpg"
+img: "salsabil.jpg"
 collection: team
 website: "https://liyalamia.github.io/Portfolio/"
 email: ""
