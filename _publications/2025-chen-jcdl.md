@@ -9,5 +9,5 @@ date: 2025-12-16
 venue: 'The 2025 ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL'24)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Tyler Chen, and Jian Wu. “Revisiting the Link Accessibility Problem in Scholarly Papers with PLoS ONE Papers.” In the 2025 ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL’25). December 25, 2025.'
+citation: 'Tyler Chen and Jian Wu. “Revisiting the Link Accessibility Problem in Scholarly Papers with PLoS ONE Papers.” In the 2025 ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL’25). December 25, 2025.'
 ---
