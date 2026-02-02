@@ -7,6 +7,6 @@ category: publications
 date: 2025-12-16
 venue: 'The 2025 ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL 2025).'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.cs.odu.edu/~jwu/downloads/pubs/chen-2025-jcdl/chen-2025-jcdl.pdf)'
+paperurl: 'https://www.cs.odu.edu/~jwu/downloads/pubs/chen-2025-jcdl/chen-2025-jcdl.pdf'
 citation: 'Tyler Chen and Jian Wu. Revisiting the Link Accessibility Problem in Scholarly Papers with PLoS ONE Papers. In the 2025 ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL 2025). December 25, 2025.'
 ---
